@@ -1,1 +1,6 @@
-repo
+{
+  "repo_name": "cryogenico3de",
+  "repo_uri": "https://github.com",
+  "description": "Cryogenic made in O3DE, using Github.",
+  "owner": "Gemhoarder"
+}
